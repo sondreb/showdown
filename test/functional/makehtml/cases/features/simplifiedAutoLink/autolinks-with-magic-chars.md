@@ -1,1 +1,1 @@
-http://www.foobar.com/blegh#**foobar**bazinga
+https://www.foobar.com/blegh#**foobar**bazinga

@@ -613,11 +613,11 @@ www.foobar
 
 www.foobar.com
 
-http://foobar.com
+https://foobar.com
 
 https://www.foobar.com/baz?bazinga=nhecos;
 
-<a href="http://www.google.com/">http://www.google.com</a>
+<a href="https://www.google.com/">https://www.google.com</a>
   
  
 this is a sentence_with_mid underscores
@@ -1613,7 +1613,13 @@ If you don't believe me: HEX EDIT!
 
   
  
-These lines all end with end of line (EOL) sequences.Seriously, they really do.If you don't believe me: HEX EDIT!  
+These lines all end with end of line (EOL) sequences.
+
+Seriously, they really do.
+
+If you don't believe me: HEX EDIT!
+
+  
  
 These lines all end with end of line (EOL) sequences.
 
